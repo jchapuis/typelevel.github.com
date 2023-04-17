@@ -78,13 +78,18 @@
   description: "Event-driven automata for Scala, Scala.js and scala native. This library provides purely functional state machines that can be used to create event sourced and/or CQRS style applications. It also includes production ready backends."
   github: "https://github.com/hnaderi/edomata"
   permalink: "https://edomata.ir/"
-  affiliate: true
+  affiliate: true  
 - title: "eff"
   category: "effects"
   description: "Extensible effects are an alternative to monad transformers for computing with effects in a functional way. This library is based on the “free-er” monad and an “open union” of effects described by Oleg Kiselyov in “Freer monads, more extensible effects”"
   
   permalink: "http://atnos-org.github.io/eff"
   github: "https://github.com/atnos-org/eff"
+  affiliate: true
+- title: "endless4s"
+  description: "Sharded and event-sourced entities using tagless-final algebras"
+  permalink: "https://endless4s.github.io/"
+  github: "https://github.com/endless4s/endless"
   affiliate: true
 - title: "Extruder"
   description: "Populate case classes from any configuration source"
